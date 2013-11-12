@@ -1,6 +1,7 @@
 //Michael Lynch
 //CS 110
 //November 4, 2013
+//GITHUB
 
 //This class contains information about a ship.
 public class Ship
